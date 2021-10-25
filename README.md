@@ -1,5 +1,5 @@
-# Hi, Welcome!!
-## I'm Jaque!  💻
+# 👋🏽 Hi, Welcome!!
+## I'm Jaque!
 
 💻 Trabalho como Desenvolvedora Junior na empresa AeC Contact Center!
 
@@ -45,3 +45,6 @@
 <a href="">
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Ícone do DotNet" />
 </a>
+
+# Never Stop Learning 👊🏽
+
