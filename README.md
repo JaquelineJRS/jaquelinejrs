@@ -5,6 +5,8 @@
 
 🚀 Estudando Desenvolvimento Web FullStack!
 
+<br/>
+
 ## 🔗 Contact: 
 
 <a href="https://www.linkedin.com/in/jaquelinersantos89/">
@@ -15,6 +17,8 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone do Instagram" />
 </a>
 
+<br/>
+<br/>
 
 ## 🔧 Tech Stack
 
@@ -45,6 +49,9 @@
 <a href="">
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Ícone do DotNet" />
 </a>
+
+<br/>
+<br/>
 
 # 👊🏽 Never Stop Learning ✋🏽
 
