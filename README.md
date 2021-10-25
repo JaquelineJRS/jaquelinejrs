@@ -1,7 +1,7 @@
 # 👋🏽 Hi, Welcome!!
 ## I'm Jaque!
 
-💻 Trabalho como Desenvolvedora Junior na empresa AeC Contact Center!
+💻 Trabalhando como Desenvolvedora Junior na empresa AeC Contact Center!
 
 🚀 Estudando Desenvolvimento Web FullStack!
 
