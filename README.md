@@ -1,9 +1,11 @@
 # 👋🏽 Hi, Welcome!!
 ## I'm Jaque!
 
-💻 Trabalhando como Desenvolvedora Junior na empresa AeC Contact Center!
+💻 Working as a Junior Developer at the company AeC Contact Center!
 
-🚀 Estudando Desenvolvimento Web FullStack!
+🚀 Studying FullStack Web Development!
+
+📚 Currently focused on studying the basics of object-oriented programming!
 
 <br/>
 
@@ -47,7 +49,11 @@
 <br/>
 <br/>
 
+![Jaqueline's github stats](https://github-readme-stats.vercel.app/api?username=JaquelineJRS&show_icons=true&theme=github_dark)
+
+<br/>
+<br/>
+
 # 👊🏽 Never Stop Learning ✋🏽
 
-![Jaqueline's github stats](https://github-readme-stats.vercel.app/api?username=JaquelineJRS&show_icons=true&theme=github_dark)
 
