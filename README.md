@@ -8,14 +8,8 @@
 <br/>
 
 ## 🔗 Contact: 
-
-<a href="https://www.linkedin.com/in/jaquelinersantos89/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ícone do Linkedin" />
-</a>
-
-<a href="https://www.instagram.com/jrsjaqueline/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone do Instagram" />
-</a>
+[![Meu perfil do Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaquelinersantos89/)
+[![Meu perfil do Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jrsjaqueline/)
 
 <br/>
 <br/>
