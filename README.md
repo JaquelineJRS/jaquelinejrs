@@ -1,11 +1,11 @@
-# 👋🏽 Hi, Welcome!!
-## I'm Jaque!
+# 👋🏽 Olá, Seja bem-vindo!!
+## Eu sou a Jaque!
 
-💻 Working as a Junior Developer at the company AeC Contact Center!
+💻 Sou desenvolvedora backend jr. na AeC Contact Center de Belo Horizonte/MG!
 
-🚀 Studying FullStack Web Development!
+🚀 Estudando para me aperfeiçoar em desenvolvimento FullStak!
 
-📚 Currently focused on studying the basics of object-oriented programming!
+📚 Atualmente estudando os fundamentos da programação orientada a objetos em .NET C#!
 
 <br/>
 
