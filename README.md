@@ -1,4 +1,4 @@
-# 👋🏽 Olá, Seja bem-vindo!!
+# 👋🏽 Olá, Seja bem-vindo(@)!!
 ## Eu sou a Jaque!
 
 💻 Sou desenvolvedora backend jr. na AeC Contact Center de Belo Horizonte/MG!
