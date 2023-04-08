@@ -17,9 +17,16 @@
 <br/>
 
 ## 🔧 Tech Stack
+<a href="">
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Ícone do CSharp" />
+</a>
 
 <a href="">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Ícone do JavaScript" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="Ícone do DotNet" />
+</a>
+
+<a href="">
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" / alt="Ícone do Postgresql">
 </a>
 
 <a href="">
@@ -31,19 +38,11 @@
 </a>
 
 <a href="">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Ícone do CSharp" />
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Ícone do JavaScript" />
 </a>
 
 <a href="">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Ícone do MYSQL" />
-</a>
-
-<a href="">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" / alt="Ícone do Postgresql">
-</a>
-
-<a href="">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="Ícone do DotNet" />
 </a>
 
 <br/>
