@@ -1,11 +1,11 @@
 # 👋🏽 Olá, Seja bem-vindo(@)!!
 ## Eu sou a Jaque!
 
-💻 Sou desenvolvedora backend jr. na AeC Contact Center de Belo Horizonte/MG!
+💻 Sou desenvolvedora backend jr. na Localiza&CO de Belo Horizonte/MG!
 
-🚀 Estudando para me aperfeiçoar em desenvolvimento FullStak!
+🚀 Estudando para me aperfeiçoar no desenvolvimento Backend em .NET!
 
-📚 Atualmente estudando os fundamentos da programação orientada a objetos em .NET C#!
+📚 Atualmente estudando API REST e ASP.NET MVC Core!
 
 <br/>
 
