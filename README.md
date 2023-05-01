@@ -1,7 +1,7 @@
 # 👋🏽 Olá, Seja bem-vindo(@)!!
 ## Eu sou a Jaque!
 
-💻 Sou desenvolvedora backend jr. na Localiza&CO de Belo Horizonte/MG!
+💻 Sou desenvolvedora backend na Localiza&CO de Belo Horizonte/MG!
 
 🚀 Estudando para me aperfeiçoar no desenvolvimento Backend em .NET!
 
